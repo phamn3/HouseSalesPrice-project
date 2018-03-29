@@ -10,5 +10,5 @@ This was a good starter project to get my feet into the water. My major takeways
 ## Installation
 It is important to note that my project activities, especially for this class, were hosted on a cloud docker container hosted by my professor that had alot of the basic dependencies already included in the environment. All of the required packages needed to run each of the notebooks has always been listed at the very top of each Jupyter Notebook so that viewers will know what tools I used.
 
-## Running the Notebooks
-I have included the accompanying train and test datasets directly from the Kaggle competition website directly into an input folder in the repository.
+## Running the Notebooks & Reviewing My Analysis
+I have included the accompanying train and test datasets from the House Sales competition Kaggle page directly into an input folder in the repository. The data is linked into the Jupyter notebooks to be run. In addition, since Part 1 and Part 2 of the project were conducted at separate time points within the semester, it will be best if the documentation analysis and jupyter notebook for a particular part of the project are viewed concurrently. I reference figures in my analysis from its companion notebook.
